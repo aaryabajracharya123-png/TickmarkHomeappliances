@@ -161,7 +161,6 @@ function getNavbar() {
       <a class="navbar-brand d-flex align-items-center gap-2" href="index.html">
         <span style="color:var(--brand-green);font-size:1.6rem;font-weight:800">✔</span>
         <span style="font-weight:700">Tick Mark</span>
-        <span class="text-muted fw-normal small d-none d-md-inline">Home Appliances</span>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMain">
         <span class="navbar-toggler-icon"></span>
